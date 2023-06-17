@@ -1,0 +1,29 @@
+Actors are as below:
+
+1. Customer( who buys tickets)
+- Login/Reg
+- Browse for movies
+- Search using filters ( Language of movies, 2D/3D, location/multiplex)
+- Book movie( select seats, select show)
+- Select addons (food/popcorn)
+- Pay
+- Cancel Ticket
+- Read reviews
+
+
+2. Multiplex Owners
+- Provide the location
+- List the movies/ show timings
+- Show Seating chart
+- List the addons that customer can buy ( food + popcorn packages)
+- Add availability of multiplex
+- cancel show based on some issues
+
+
+3. System
+- Have list of all multiplexes and shows
+- Generate ticket(QR code) and send ticket details to customer(SMS/email)
+- generate bill
+- Take reviews for all multiplexes and generate rating
+- Take reviews for movies and generate rating
+- customer care(for cancellation/refund)
